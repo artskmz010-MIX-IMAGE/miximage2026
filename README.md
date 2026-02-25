@@ -56,6 +56,12 @@ Create stunning AI-generated portraits with real-time preview and professional-g
 
 ---
 
+## ⚡ 15-Minute Bring-Up Checklist
+
+ต้องการให้โปรเจกต์รันขึ้นเร็ว ดูขั้นตอนแบบเร่งด่วนที่ `CHECKLIST_15MIN.md`
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites
